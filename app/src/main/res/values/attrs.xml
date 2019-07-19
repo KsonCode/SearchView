@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SearchView">
+        <!--大小-->
+        <attr name="searchKeywordSize" format="dimension"/>
+        <!--颜色-->
+        <attr name="keywordColor" format="color"/>
+
+    </declare-styleable>
+</resources>
